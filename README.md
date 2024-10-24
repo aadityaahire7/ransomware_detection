@@ -1,5 +1,5 @@
-
-
+github link: https://github.com/aadityaahire7/ransomware_detection
+Group Members: Aaditya Ahire, Dimple Mehta, Aditi Kandari
 # Ransomware Detection
 
 This repository contains a Colab-based implementation for ransomware detection using machine learning techniques. The project aims to classify and detect potential ransomware based on various features extracted from system or network data.
