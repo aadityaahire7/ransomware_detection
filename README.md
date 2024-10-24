@@ -16,7 +16,7 @@ This project involves:
 
 ## Code Structure
 
-The main code for this project is implemented in the `ransomware_detection.ipynb` Colab notebook.
+The main code for this project is implemented in the `ransomware_detection.ipynb` Colab notebook and the the file "ransomware_data.csv" contains the dataset.
 
 ### Key Components:
 1. **Data Loading and Preprocessing:** Data is loaded from a CSV file and preprocessed to handle missing values, outliers, and feature scaling.
@@ -29,12 +29,12 @@ The main code for this project is implemented in the `ransomware_detection.ipynb
 
 ## How to Run the Project
 
-1. Clone the repository:
+1. Clone the repository or you can download it:
    ```bash
    git clone https://github.com/aadityaahire7/ransomware_detection.git
    ```
 
-2. Open the Colab notebook `ransomware_detection.ipynb` in Google Colab.
+2. Open the Colab notebook `ransomware_detection.ipynb` in Google Colab and upload the dataset file.
 
 3. Follow the steps in the notebook to:
    - Load the data
